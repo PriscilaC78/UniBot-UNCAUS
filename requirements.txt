@@ -1,4 +1,11 @@
-Flask
+flask
 flask-cors
-psycopg2-binary
-gunicorn
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+groq
+sentence-transformers
